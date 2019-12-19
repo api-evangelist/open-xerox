@@ -1,0 +1,72 @@
+{
+    "name": "Open Xerox",
+    "description": "Business services, document management and workflow solutions to help businesses and governments work better.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1265-open-xerox.jpg",
+    "tags": [
+        "have api",
+        "pdf"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/open-xerox\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Open Xerox",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1265-open-xerox.jpg",
+            "humanURL": "http:\/\/open.xerox.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/open-xerox-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/open-xerox-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/services.open.xerox.com"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/xerox"
+        },
+        {
+            "type": "Email",
+            "url": "Askxerox@xerox.com"
+        },
+        {
+            "type": "Email",
+            "url": "ethics@xerox.com"
+        },
+        {
+            "type": "Email",
+            "url": "DallasCCOEIPPPayment@xerox.com"
+        },
+        {
+            "type": "Email",
+            "url": "Karen.Boyle@xerox.com"
+        },
+        {
+            "type": "Email",
+            "url": "USA.Xerox.Section.508@xerox.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Xerox"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/open.xerox.com"
+        }
+    ]
+}
